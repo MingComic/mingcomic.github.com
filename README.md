@@ -4,3 +4,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/MingComic/mingcomic.github.com.git
 git push -u origin master
+git add index.html
+git commit -m 'added index.html'
+git push -u origin MingComic
